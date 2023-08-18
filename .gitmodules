@@ -5,3 +5,6 @@
 [submodule "nls.multstart"]
 	path = nls.multstart
 	url = https://github.com/padpadpadpad/nls.multstart
+[submodule "rTPC"]
+	path = rTPC
+	url = https://github.com/padpadpadpad/rtpc
